@@ -1,12 +1,15 @@
 import lxml.etree as etree
 import requests
+from constants import PT_TEAMS_DATA
+from utils import read_json
 
 if __name__ == "__main__":
+    teams = read_json(PT_TEAMS_DATA)
+
     with requests.Session() as s:
-        r = s.get(
-            "https://upload.wikimedia.org/wikipedia/en/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg"
-        )
+        for team in teams:
+            r = s.get(team["logo_url"])
 
-        tree = etree.fromstring(r.content)
+            tree = etree.fromstring(r.content)
 
-        print(tree.xpath("//@fill"))
+            print(tree.xpath("//@fill"))
