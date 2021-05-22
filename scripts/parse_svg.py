@@ -1,10 +1,13 @@
+from typing import Dict, List, Union
+
 import lxml.etree as etree
 import requests
-from constants import PT_TEAMS_DATA
-from utils import read_json
+from constants import PT_TEAMS_COLORS, PT_TEAMS_DATA
+from utils import read_json, write_json
 
 if __name__ == "__main__":
     teams = read_json(PT_TEAMS_DATA)
+    teams_colors: List[Dict[str, Union[str, List[str]]]] = []
 
     with requests.Session() as s:
         for team in teams:
@@ -12,4 +15,8 @@ if __name__ == "__main__":
 
             tree = etree.fromstring(r.content)
 
-            print(tree.xpath("//@fill"))
+            colors = list(set(tree.xpath("//@fill")))
+
+            teams_colors.append({"name": team["name"], "colors": colors})
+
+    write_json(teams_colors, PT_TEAMS_COLORS)

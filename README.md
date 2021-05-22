@@ -19,3 +19,4 @@ Set of files with the colors relevant to a given topic.
 - [XPath Syntax](https://www.w3schools.com/xml/xpath_syntax.asp).
 - [Team Colors](https://teamcolors.jim-nielsen.com/) website.
 - {[teamcolors](https://github.com/beanumber/teamcolors)} package.
+- [SecretColors](https://github.com/secretBiology/SecretColors) package.
