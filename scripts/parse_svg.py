@@ -15,8 +15,10 @@ if __name__ == "__main__":
 
             tree = etree.fromstring(r.content)
 
-            colors = list(set(map(str.lower, tree.xpath("//@fill"))))
+            colors = tree.xpath("//@fill")
 
-            teams_colors.append({"name": team["name"], "colors": colors})
+            unique_colors = list(set(map(str.lower, colors)))
+
+            teams_colors.append({"name": team["name"], "colors": unique_colors})
 
     write_json(teams_colors, PT_TEAMS_COLORS)
