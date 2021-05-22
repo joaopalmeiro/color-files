@@ -20,3 +20,6 @@ Set of files with the colors relevant to a given topic.
 - [Team Colors](https://teamcolors.jim-nielsen.com/) website.
 - {[teamcolors](https://github.com/beanumber/teamcolors)} package.
 - [SecretColors](https://github.com/secretBiology/SecretColors) package.
+- [cssutils](https://cssutils.readthedocs.io/en/latest/) documentation:
+  - [Parsers](https://cssutils.readthedocs.io/en/latest/parse.html).
+  - [`parseStyle()` output](https://cssutils.readthedocs.io/en/latest/css.html#cssutils.css.CSSStyleDeclaration).

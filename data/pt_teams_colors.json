@@ -2,9 +2,17 @@
   {
     "name": "Sporting Clube de Portugal",
     "colors": [
-      "#ffffff",
       "#008057",
-      "#f3c242"
+      "#f3c242",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Moreirense Futebol Clube",
+    "colors": [
+      "#145f25",
+      "#ffffff",
+      "#af9713"
     ]
   }
 ]

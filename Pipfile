@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 lxml = "*"
 requests = "*"
+cssutils = "*"
 
 [dev-packages]
 black = "*"
