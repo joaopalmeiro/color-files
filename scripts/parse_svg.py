@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
             tree = etree.fromstring(r.content)
 
-            colors = list(set(tree.xpath("//@fill")))
+            colors = list(set(map(str.lower, tree.xpath("//@fill"))))
 
             teams_colors.append({"name": team["name"], "colors": colors})
 
