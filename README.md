@@ -2,6 +2,10 @@
 
 Set of files with the colors relevant to a given topic.
 
+## References
+
+- [webcolors](https://github.com/ubernostrum/webcolors) package.
+
 ## Development
 
 - `pipenv install --dev --python 3.8`.
@@ -23,3 +27,4 @@ Set of files with the colors relevant to a given topic.
 - [cssutils](https://cssutils.readthedocs.io/en/latest/) documentation:
   - [Parsers](https://cssutils.readthedocs.io/en/latest/parse.html).
   - [`parseStyle()` output](https://cssutils.readthedocs.io/en/latest/css.html#cssutils.css.CSSStyleDeclaration).
+- [Full names](https://www.ligaportugal.pt/pt/liga/clube/20202021/liganos).
