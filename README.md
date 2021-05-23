@@ -6,6 +6,11 @@ Set of files with the colors relevant to a given topic.
 
 - [webcolors](https://github.com/ubernostrum/webcolors) package.
 
+## Colors
+
+- [Santa Clara](https://cdsantaclara.com/) website:
+  - Red: `#e20226`.
+
 ## Development
 
 - `pipenv install --dev --python 3.8`.
