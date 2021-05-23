@@ -1,10 +1,17 @@
 [
   {
-    "name": "Sporting Clube de Portugal",
+    "full_name": "Sporting Clube de Portugal",
+    "name": "Sporting",
     "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg"
   },
   {
-    "name": "Moreirense Futebol Clube",
+    "full_name": "Moreirense Futebol Clube",
+    "name": "Moreirense",
     "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/1b/Moreirense_Futebol_Clube_logo.svg"
+  },
+  {
+    "full_name": "Clube Desportivo Santa Clara",
+    "name": "Santa Clara",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/37/C.D._Santa_Clara_logo.svg"
   }
 ]

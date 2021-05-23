@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sporting Clube de Portugal",
+    "name": "Sporting",
     "colors": [
       "#008057",
       "#f3c242",
@@ -8,11 +8,22 @@
     ]
   },
   {
-    "name": "Moreirense Futebol Clube",
+    "name": "Moreirense",
     "colors": [
       "#145f25",
-      "#ffffff",
-      "#af9713"
+      "#af9713",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Santa Clara",
+    "colors": [
+      "#13946a",
+      "#231f20",
+      "#305898",
+      "#d63935",
+      "#fbc11c",
+      "#ffffff"
     ]
   }
 ]

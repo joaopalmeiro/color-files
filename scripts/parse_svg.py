@@ -4,7 +4,7 @@ import cssutils
 import lxml.etree as etree
 import requests
 from constants import PT_TEAMS_COLORS, PT_TEAMS_DATA
-from utils import read_json, write_json
+from utils import normalize_hex, read_json, write_json
 
 
 def process_styles(styles: Sequence[str]) -> List[str]:
@@ -28,6 +28,8 @@ if __name__ == "__main__":
 
             # `fill` attribute
             fill_colors = tree.xpath("//@fill")
+            if fill_colors:
+                fill_colors = [normalize_hex(color) for color in fill_colors]
 
             # `style` attribute
             inline_style_colors = tree.xpath("//@style")
@@ -38,6 +40,10 @@ if __name__ == "__main__":
             all_colors = fill_colors + inline_style_colors
             unique_colors = list(set(map(str.lower, all_colors)))
 
-            teams_colors.append({"name": team["name"], "colors": unique_colors})
+            teams_colors.append({"name": team["name"], "colors": sorted(unique_colors)})
+
+            print(f"\n✅ {team['name']}")
 
     write_json(teams_colors, PT_TEAMS_COLORS)
+
+    print("\n✨ Done!")
