@@ -13,9 +13,9 @@ Set of files with the colors relevant to a given topic.
 
 ## Files
 
-- Color scope (`color_scope`):
-  - `logo`: Only the colors used in the logo.
-  - `brand`: All colors (typically defined in the brand's style guide).
+- Colors:
+  - `logo_colors`: Only the colors used in the (default) logo.
+  - `brand_colors`: All colors (typically defined in the brand guidelines/style guide).
 
 ## Development
 

@@ -1,8 +1,21 @@
 [
   {
     "name": "GitLab",
-    "colors": ["#fca121", "#fc6d26", "#db3b21", "#8c929d"],
-    "color_scope": "logo",
-    "source": "https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/"
+    "logo_colors": ["#fca121", "#fc6d26", "#db3b21", "#8c929d"],
+    "brand_colors": [
+      "#fca121",
+      "#fc6d26",
+      "#db3b21",
+      "#6e49cb",
+      "#380d75",
+      "#180633",
+      "#cccccc",
+      "#8c929d",
+      "#2e2e2e"
+    ],
+    "source": [
+      "https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/",
+      "https://design.gitlab.com/brand/basics/"
+    ]
   }
 ]
