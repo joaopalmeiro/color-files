@@ -3,6 +3,7 @@
     "name": "Magic",
     "brand_colors": ["#6851ff", "#00c988", "#000000", "#ffffff"],
     "logo_colors": ["#6851ff", "#ffffff"],
-    "source": ["https://magic.link/brand-assets"]
+    "source": ["https://magic.link/brand-assets"],
+    "last_update": "Friday, July 30, 2021"
   }
 ]
