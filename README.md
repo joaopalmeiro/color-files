@@ -11,6 +11,12 @@ Set of files with the colors relevant to a given topic.
 - [Santa Clara](https://cdsantaclara.com/) website:
   - Red: `#e20226`.
 
+## Files
+
+- Color scope (`color_scope`):
+  - `logo`: Only the colors used in the logo.
+  - `brand`: All colors (typically defined in the brand's style guide).
+
 ## Development
 
 - `pipenv install --dev --python 3.8`.
