@@ -1,0 +1,26 @@
+{
+  "name": "color-files",
+  "version": "0.0.1",
+  "description": "Set of files with the colors relevant to a given topic.",
+  "scripts": {
+    "lint-md": "remark README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopalmeiro/color-files.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaopalmeiro/color-files/issues"
+  },
+  "homepage": "https://github.com/joaopalmeiro/color-files#readme",
+  "devDependencies": {
+    "@mapbox/remark-lint-link-text": "^0.6.0",
+    "remark-cli": "^9.0.0"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "@mapbox/remark-lint-link-text"
+    ]
+  }
+}
