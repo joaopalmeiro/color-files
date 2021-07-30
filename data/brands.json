@@ -23,6 +23,16 @@
     "last_update": "Friday, July 30, 2021"
   },
   {
+    "name": "Magic",
+    "website": "https://magic.link/",
+    "colors": {
+      "logo_colors": ["#6851ff", "#000000"],
+      "our_colors": ["#6851ff", "#00c988", "#000000", "#ffffff"]
+    },
+    "source": ["https://magic.link/brand-assets"],
+    "last_update": "Friday, July 30, 2021"
+  },
+  {
     "name": "Vercel",
     "website": "https://vercel.com/",
     "colors": {
@@ -51,16 +61,6 @@
       "https://vercel.com/design/brands",
       "https://vercel.com/design/color"
     ],
-    "last_update": "Friday, July 30, 2021"
-  },
-  {
-    "name": "Magic",
-    "website": "https://magic.link/",
-    "colors": {
-      "logo_colors": ["#6851ff", "#000000"],
-      "our_colors": ["#6851ff", "#00c988", "#000000", "#ffffff"]
-    },
-    "source": ["https://magic.link/brand-assets"],
     "last_update": "Friday, July 30, 2021"
   }
 ]
