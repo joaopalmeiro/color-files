@@ -2,8 +2,8 @@
   {
     "name": "GitLab",
     "website": "https://about.gitlab.com/",
-    "logo_colors": ["#fca121", "#fc6d26", "#db3b21", "#8c929d"],
     "colors": {
+      "logo_colors": ["#fca121", "#fc6d26", "#db3b21", "#8c929d"],
       "color": [
         "#fca121",
         "#fc6d26",
@@ -14,8 +14,7 @@
         "#cccccc",
         "#8c929d",
         "#2e2e2e"
-      ],
-      "chromatic_palette_blue": []
+      ]
     },
     "source": [
       "https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/",
@@ -26,10 +25,21 @@
   {
     "name": "Vercel",
     "website": "https://vercel.com/",
-    "logo_colors": ["#000000"],
     "colors": {
-      "primary_colors": ["#000000", "#ffffff", "#0070f3"],
-      "primary": []
+      "logo_colors": ["#000000"],
+      "primary": [
+        "#000000",
+        "#111111",
+        "#333333",
+        "#444444",
+        "#666666",
+        "#888888",
+        "#999999",
+        "#EAEAEA",
+        "#FAFAFA",
+        "#FFFFFF"
+      ],
+      "primary_colors": ["#000000", "#ffffff", "#0070f3"]
     },
     "source": [
       "https://vercel.com/design/brands",
@@ -40,8 +50,8 @@
   {
     "name": "Magic",
     "website": "https://magic.link/",
-    "logo_colors": ["#6851ff", "#000000"],
     "colors": {
+      "logo_colors": ["#6851ff", "#000000"],
       "our_colors": ["#6851ff", "#00c988", "#000000", "#ffffff"]
     },
     "source": ["https://magic.link/brand-assets"],

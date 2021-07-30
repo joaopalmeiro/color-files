@@ -1,3 +1,7 @@
 {
-  "recommendations": ["kamikillerto.vscode-colorize"]
+  "recommendations": [
+    "kamikillerto.vscode-colorize",
+    "richie5um2.vscode-sort-json",
+    "fvclaus.sort-json-array"
+  ]
 }

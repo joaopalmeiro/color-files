@@ -1,3 +1,24 @@
 {
-  "colorize.languages": ["json"]
+  "colorize.languages": ["json"],
+  "editor.minimap.enabled": false,
+  "sortJSON.contextMenu": {
+    "sortJSON": true,
+    "sortJSONAlphaNum": true,
+    "sortJSONAlphaNumReverse": false,
+    "sortJSONKeyLength": false,
+    "sortJSONKeyLengthReverse": false,
+    "sortJSONReverse": false,
+    "sortJSONType": false,
+    "sortJSONTypeReverse": false,
+    "sortJSONValues": false,
+    "sortJSONValuesReverse": false
+  },
+  "sortJSON.orderOverride": [
+    "name",
+    "website",
+    "colors",
+    "logo_colors",
+    "source",
+    "last_update"
+  ]
 }
