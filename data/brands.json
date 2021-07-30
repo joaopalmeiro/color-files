@@ -28,7 +28,8 @@
     "website": "https://vercel.com/",
     "logo_colors": ["#000000"],
     "colors": {
-      "primary_colors": ["#000000", "#ffffff", "#0070f3"]
+      "primary_colors": ["#000000", "#ffffff", "#0070f3"],
+      "primary": []
     },
     "source": [
       "https://vercel.com/design/brands",
