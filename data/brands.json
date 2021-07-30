@@ -1,6 +1,7 @@
 [
   {
     "name": "GitLab",
+    "website": "https://about.gitlab.com/",
     "logo_colors": ["#fca121", "#fc6d26", "#db3b21", "#8c929d"],
     "brand_colors": [
       "#fca121",

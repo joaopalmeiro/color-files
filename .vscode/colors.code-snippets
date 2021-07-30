@@ -1,0 +1,17 @@
+{
+  "New entry": {
+    "scope": "json",
+    "prefix": ["new"],
+    "body": [
+      "{",
+      "  \"name\": \"$1\",",
+      "  \"website\": \"$2\",",
+      "  \"logo_colors\": [\"$3\"],",
+      "  \"brand_colors\": [\"$4\"],",
+      "  \"source\": [\"$5\"],",
+      "  \"last_update\": \"$6\"",
+      "}"
+    ],
+    "description": "Bootstrap a new entry for one of the color files."
+  }
+}
