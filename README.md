@@ -43,4 +43,4 @@ Set of files with the colors relevant to a given topic.
 - [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json):
   - It only rearranges keys, not array positions ([source](https://github.com/richie5um/vscode-sort-json/issues/40#issuecomment-713880886) issue). Alternative: [Sort JSON array](https://marketplace.visualstudio.com/items?itemName=fvclaus.sort-json-array).
 - Regular expression for hexadecimal colors (can be used in VS Code): `#(?:[0-9a-fA-F]{3}){1,2}` ([source](https://stackoverflow.com/a/1636354)). Select All Occurrences of Find Match (`editor.action.selectHighlights`): `shift+cmd+l`.
-- `date "+%A, %B %d, %Y" | pbcopy`.
+- `date "+%A, %B %d, %Y" | tr -d "\n" | pbcopy`. The middle part is for removing newline characters (more info [here](https://stackoverflow.com/questions/3482289/easiest-way-to-strip-newline-character-from-input-string-in-pasteboard)).
