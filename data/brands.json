@@ -19,5 +19,13 @@
       "https://design.gitlab.com/brand/basics/"
     ],
     "last_update": "Friday, July 30, 2021"
+  },
+  {
+    "name": "Vercel",
+    "website": "https://vercel.com/",
+    "logo_colors": ["#000000"],
+    "brand_colors": ["#000000", "#ffffff", "#0070f3"],
+    "source": ["https://vercel.com/design/brands"],
+    "last_update": "Friday, July 30, 2021"
   }
 ]
