@@ -41,4 +41,4 @@ Set of files with the colors relevant to a given topic.
 - [Full names](https://www.ligaportugal.pt/pt/liga/clube/20202021/liganos).
 - [snippet generator](https://snippet-generator.app/) website.
 - [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json):
-  - It only rearranges keys, not array positions ([source](https://github.com/richie5um/vscode-sort-json/issues/40#issuecomment-713880886) issue).
+  - It only rearranges keys, not array positions ([source](https://github.com/richie5um/vscode-sort-json/issues/40#issuecomment-713880886) issue). Alternative: [Sort JSON array](https://marketplace.visualstudio.com/items?itemName=fvclaus.sort-json-array).
