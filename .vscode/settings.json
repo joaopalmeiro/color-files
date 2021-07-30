@@ -1,5 +1,5 @@
 {
-  "colorize.languages": ["json"],
+  "colorize.languages": ["json", "markdown"],
   "editor.minimap.enabled": false,
   "sortJSON.contextMenu": {
     "sortJSON": true,

@@ -14,11 +14,18 @@
         "#cccccc",
         "#8c929d",
         "#2e2e2e"
-      ]
+      ],
+      "blue": [],
+      "green": [],
+      "orange": [],
+      "red": [],
+      "purple": [],
+      "neutral_palette": []
     },
     "source": [
       "https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/",
-      "https://design.gitlab.com/brand/basics/"
+      "https://design.gitlab.com/brand/basics/",
+      "https://design.gitlab.com/product-foundations/colors/"
     ],
     "last_update": "Friday, July 30, 2021"
   },
@@ -37,9 +44,9 @@
     "website": "https://vercel.com/",
     "colors": {
       "logo_colors": ["#000000"],
-      "cyan": ["#AAFFEC", "#79FFE1", "#50E3C2", "#29BC9B"],
-      "error": ["#F7D4D6", "#ff3333", "#ff0000", "#E60000"],
-      "highlight": ["#F81CE5", "#EB367F", "#FF0080", "#FFF500"],
+      "cyan": ["#aaffec", "#79ffe1", "#50e3c2", "#29bc9b"],
+      "error": ["#f7d4d6", "#ff3333", "#ff0000", "#e60000"],
+      "highlight": ["#f81ce5", "#eb367f", "#ff0080", "#fff500"],
       "primary": [
         "#000000",
         "#111111",
@@ -48,14 +55,14 @@
         "#666666",
         "#888888",
         "#999999",
-        "#EAEAEA",
-        "#FAFAFA",
-        "#FFFFFF"
+        "#eaeaea",
+        "#fafafa",
+        "#ffffff"
       ],
       "primary_colors": ["#000000", "#ffffff", "#0070f3"],
-      "success": ["#D3E5FF", "#3291FF", "#0070F3", "#0761D1"],
-      "violet": ["#E3D7FC", "#8A63D2", "#7928CA", "#4C2889"],
-      "warning": ["#FFEFCF", "#F7B955", "#F5A623", "#AB570A"]
+      "success": ["#d3e5ff", "#3291ff", "#0070f3", "#0761d1"],
+      "violet": ["#e3d7fc", "#8a63d2", "#7928ca", "#4c2889"],
+      "warning": ["#ffefcf", "#f7b955", "#f5a623", "#ab570a"]
     },
     "source": [
       "https://vercel.com/design/brands",
