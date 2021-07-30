@@ -4,12 +4,14 @@
     "prefix": ["new"],
     "body": [
       "{",
-      "  \"name\": \"$1\",",
-      "  \"website\": \"$2\",",
-      "  \"logo_colors\": [\"$3\"],",
-      "  \"brand_colors\": [\"$4\"],",
-      "  \"source\": [\"$5\"],",
-      "  \"last_update\": \"$6\"",
+      "  \"name\": \"\",",
+      "  \"website\": \"\",",
+      "  \"logo_colors\": [\"\"],",
+      "  \"colors\": {",
+      "    \"\": [\"\"]",
+      "  },",
+      "  \"source\": [\"\"],",
+      "  \"last_update\": \"\"",
       "}"
     ],
     "description": "Bootstrap a new entry for one of the color files."
