@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "FastAPI",
+    "website": "https://fastapi.tiangolo.com/",
+    "colors": {
+      "logo_colors": ["#009688"]
+    },
+    "source": [
+      "https://github.com/tiangolo/fastapi/tree/0.68.0/docs/en/docs/img/logo-margin"
+    ],
+    "last_update": "Saturday, July 31, 2021"
+  }
+]

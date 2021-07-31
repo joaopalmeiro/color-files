@@ -10,7 +10,7 @@
       "    \"logo_colors\": [\"\"]",
       "  },",
       "  \"source\": [\"\"],",
-      "  \"last_update\": \"\"",
+      "  \"last_update\": \"$CURRENT_DAY_NAME, $CURRENT_MONTH_NAME $CURRENT_DATE, $CURRENT_YEAR\"",
       "}"
     ],
     "description": "Bootstrap a new entry for one of the color files."
