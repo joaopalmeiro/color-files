@@ -1,5 +1,125 @@
 [
   {
+    "name": "Gatsby",
+    "website": "https://www.gatsbyjs.com/",
+    "colors": {
+      "logo_colors": ["#663399", "#000000", "#ffffff"],
+      "neutral_grey": [
+        "#232129",
+        "#36313d",
+        "#48434f",
+        "#635e69",
+        "#78757a",
+        "#b7b5bd",
+        "#d9d7e0",
+        "#f0f0f2",
+        "#f5f5f5",
+        "#fbfbfb"
+      ],
+      "primary_orange": [
+        "#db3a00",
+        "#e65800",
+        "#f67300",
+        "#fb8400",
+        "#ffb238",
+        "#ffd280",
+        "#ffe4a1",
+        "#ffedbf",
+        "#fff4db",
+        "#fffcf7"
+      ],
+      "primary_purple": [
+        "#362066",
+        "#452475",
+        "#542c85",
+        "#663399",
+        "#8a4baf",
+        "#b17acc",
+        "#d9bae8",
+        "#f1defa",
+        "#f6edfa",
+        "#fcfaff"
+      ],
+      "secondary_blue": [
+        "#004ca3",
+        "#006ac1",
+        "#047bd3",
+        "#0e8de6",
+        "#0d96f2",
+        "#3fa9f5",
+        "#63b8f6",
+        "#90cdf9",
+        "#dbf0ff",
+        "#f5fcff"
+      ],
+      "secondary_green": [
+        "#006500",
+        "#088413",
+        "#1d9520",
+        "#2ca72c",
+        "#37b635",
+        "#59c156",
+        "#79cd75",
+        "#a1da9e",
+        "#def5dc",
+        "#f7fdf7"
+      ],
+      "secondary_magenta": [
+        "#690147",
+        "#7d0e59",
+        "#940159",
+        "#a6026a",
+        "#bc027f",
+        "#d459ab",
+        "#e899ce",
+        "#f2c4e3",
+        "#ffe6f6",
+        "#fffafd"
+      ],
+      "secondary_red": [
+        "#b80000",
+        "#ce0009",
+        "#da0013",
+        "#ec1818",
+        "#fa2915",
+        "#ff5a54",
+        "#ff8885",
+        "#ffbab8",
+        "#fde7e7",
+        "#fffafa"
+      ],
+      "secondary_teal": [
+        "#008577",
+        "#10a39e",
+        "#00bdb6",
+        "#2de3da",
+        "#05f7f4",
+        "#73fff7",
+        "#a6fffa",
+        "#ccfffc",
+        "#dcfffd",
+        "#f7ffff"
+      ],
+      "secondary_yellow": [
+        "#8a6534",
+        "#bf9141",
+        "#e3a617",
+        "#fec21e",
+        "#fed038",
+        "#ffdf37",
+        "#ffeb99",
+        "#fff2a8",
+        "#fff5bf",
+        "#fffdf7"
+      ]
+    },
+    "source": [
+      "https://www.gatsbyjs.com/guidelines/logo",
+      "https://www.gatsbyjs.com/guidelines/color/"
+    ],
+    "last_update": "Saturday, July 31, 2021"
+  },
+  {
     "name": "GitLab",
     "website": "https://about.gitlab.com/",
     "colors": {
@@ -197,8 +317,8 @@
     "website": "https://www.stackbit.com/",
     "colors": {
       "logo_colors": ["#207bea", "#272b34", "#7d8085"],
-      "stackbit_colors": ["#207bea", "#272b34"],
-      "secondary_colors": ["#12b65e", "#df8e00", "#717e8d"]
+      "secondary_colors": ["#12b65e", "#df8e00", "#717e8d"],
+      "stackbit_colors": ["#207bea", "#272b34"]
     },
     "source": [
       "https://www.stackbit.com/branding-guidelines/",

@@ -1,4 +1,14 @@
 {
+  "[json]": {
+    // More info:
+    // - https://code.visualstudio.com/docs/editor/intellisense#_settings
+    // - https://kittygiraudel.com/snippets/vsc-lite/
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    }
+  },
   "colorize.languages": ["json", "markdown"],
   "editor.minimap.enabled": false,
   "sortJSON.contextMenu": {

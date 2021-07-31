@@ -16,6 +16,7 @@ Set of files with the colors relevant to a given topic.
 - Colors:
   - `colors`: All colors (typically defined in brand guidelines and/or design systems).
     - `logo_colors`: Only the colors used in the (default) logo.
+    - The other names/keys are based on the respective section titles (or similar).
 
 ## Development
 
