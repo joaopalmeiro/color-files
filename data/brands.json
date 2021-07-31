@@ -193,6 +193,20 @@
     "last_update": "Friday, July 30, 2021"
   },
   {
+    "name": "Stackbit",
+    "website": "https://www.stackbit.com/",
+    "colors": {
+      "logo_colors": ["#207bea", "#272b34", "#7d8085"],
+      "stackbit_colors": ["#207bea", "#272b34"],
+      "secondary_colors": ["#12b65e", "#df8e00", "#717e8d"]
+    },
+    "source": [
+      "https://www.stackbit.com/branding-guidelines/",
+      "https://assets.stackbit.com/brand-guidelines/logo-stackbit-dark.svg"
+    ],
+    "last_update": "Saturday, July 31, 2021"
+  },
+  {
     "name": "Vercel",
     "website": "https://vercel.com/",
     "colors": {
