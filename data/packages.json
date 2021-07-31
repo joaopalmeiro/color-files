@@ -9,5 +9,23 @@
       "https://github.com/tiangolo/fastapi/tree/0.68.0/docs/en/docs/img/logo-margin"
     ],
     "last_update": "Saturday, July 31, 2021"
+  },
+  {
+    "name": "GeoPandas",
+    "website": "https://geopandas.org/",
+    "colors": {
+      "logo_colors": ["#139c5a", "#ffca00", "#e70488"]
+    },
+    "source": ["https://geopandas.org/about/logo.html"],
+    "last_update": "Saturday, July 31, 2021"
+  },
+  {
+    "name": "pandas",
+    "website": "https://pandas.pydata.org/",
+    "colors": {
+      "logo_colors": ["#150458", "#ffca00", "#e70488"]
+    },
+    "source": ["https://pandas.pydata.org/about/citing.html"],
+    "last_update": "Saturday, July 31, 2021"
   }
 ]
