@@ -9,6 +9,8 @@
       "strings": false
     }
   },
+  // https://code.visualstudio.com/docs/editor/intellisense#_tab-completion
+  "editor.tabCompletion": "onlySnippets",
   "colorize.languages": ["json", "markdown"],
   "editor.minimap.enabled": false,
   "sortJSON.contextMenu": {

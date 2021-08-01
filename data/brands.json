@@ -313,6 +313,22 @@
     "last_update": "Friday, July 30, 2021"
   },
   {
+    "name": "Maze",
+    "website": "https://maze.co/",
+    "colors": {
+      "logo_colors": ["#000000"],
+      "primary": ["#000000", "#0568fd", "#f9fafc", "#ffffff"],
+      "secondary_rose": ["#fdf7f8", "#fae6e9", "#ea9292", "#ac5863"],
+      "secondary_yellow": ["#fff8f2", "#ffe8d3", "#ffad62"],
+      "secondary_lavender": ["#f1f8f7", "#cfe7e5", "#2d9097", "#34585a"],
+      "secondary_forrest": ["#f7f5fb", "#e6dff3", "#8f61c9", "#3d2f5d"]
+    },
+    "source": [
+      "https://www.notion.so/Press-Kit-421d405e76154662a547ce9ef2a3f018"
+    ],
+    "last_update": "Sunday, August 01, 2021"
+  },
+  {
     "name": "Stackbit",
     "website": "https://www.stackbit.com/",
     "colors": {
