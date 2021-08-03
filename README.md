@@ -54,3 +54,4 @@ Set of files with the colors relevant to a given topic.
 - [copy-text-to-clipboard](https://www.npmjs.com/package/copy-text-to-clipboard) package (lightweight).
 - [mousetrap](https://www.npmjs.com/package/mousetrap) package (to handle keyboard shortcuts).
 - [number-abbreviate](https://www.npmjs.com/package/number-abbreviate) package.
+- [TinyColor](https://www.npmjs.com/package/tinycolor2) package (`npm i tinycolor2`).
