@@ -51,3 +51,6 @@ Set of files with the colors relevant to a given topic.
 - [Variables for code snippets in VS Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables).
 - `package-lock.json binary` to facilitate `git diff` ([source](https://twitter.com/okonetchnikov)).
 - [npm-check](https://www.npmjs.com/package/npm-check) package (check for outdated, incorrect, and unused dependencies).
+- [copy-text-to-clipboard](https://www.npmjs.com/package/copy-text-to-clipboard) package (lightweight).
+- [mousetrap](https://www.npmjs.com/package/mousetrap) package (to handle keyboard shortcuts).
+- [number-abbreviate](https://www.npmjs.com/package/number-abbreviate) package.
