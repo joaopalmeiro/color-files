@@ -49,3 +49,4 @@ Set of files with the colors relevant to a given topic.
   - `npm install --save-dev remark-cli @mapbox/remark-lint-link-text`.
   - [remark-cli](https://www.npmjs.com/package/remark-cli).
 - [Variables for code snippets in VS Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables).
+- `package-lock.json binary` to facilitate `git diff` ([source](https://twitter.com/okonetchnikov)).
