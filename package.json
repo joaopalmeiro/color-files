@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "Set of files with the colors relevant to a given topic.",
   "scripts": {
-    "lint-md": "remark README.md"
+    "lint-md": "remark README.md",
+    "lint-deps": "npx npm-check -u"
   },
   "repository": {
     "type": "git",

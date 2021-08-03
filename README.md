@@ -50,3 +50,4 @@ Set of files with the colors relevant to a given topic.
   - [remark-cli](https://www.npmjs.com/package/remark-cli).
 - [Variables for code snippets in VS Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables).
 - `package-lock.json binary` to facilitate `git diff` ([source](https://twitter.com/okonetchnikov)).
+- [npm-check](https://www.npmjs.com/package/npm-check) package (check for outdated, incorrect, and unused dependencies).
