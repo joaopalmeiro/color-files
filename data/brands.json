@@ -346,6 +346,15 @@
     "last_update": "Tuesday, August 03, 2021"
   },
   {
+    "name": "React Bricks",
+    "website": "https://reactbricks.com/",
+    "colors": {
+      "logo_colors": ["#f65a8e", "#b43278", "#23192d"]
+    },
+    "source": ["https://reactbricks.com/design"],
+    "last_update": "Wednesday, August 04, 2021"
+  },
+  {
     "name": "Stackbit",
     "website": "https://www.stackbit.com/",
     "colors": {
