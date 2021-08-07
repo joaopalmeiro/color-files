@@ -20,6 +20,17 @@
     "last_update": "Saturday, July 31, 2021"
   },
   {
+    "name": "React Query",
+    "website": "https://react-query.tanstack.com/",
+    "colors": {
+      "logo_colors": ["#00435B", "#002B3B", "#FF4154", "#FFD94C"]
+    },
+    "source": [
+      "https://github.com/tannerlinsley/react-query/blob/v3.19.2/docs/src/images/logo.svg"
+    ],
+    "last_update": "Saturday, August 07, 2021"
+  },
+  {
     "name": "pandas",
     "website": "https://pandas.pydata.org/",
     "colors": {
