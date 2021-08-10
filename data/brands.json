@@ -303,6 +303,15 @@
     "last_update": "Saturday, July 31, 2021"
   },
   {
+    "name": "MLReef",
+    "website": "https://about.mlreef.com/",
+    "colors": {
+      "logo_colors": ["#16adce", "#f6554d", "#15b785", "#eaba44", "#1d2b40"]
+    },
+    "source": ["https://about.mlreef.com/press/"],
+    "last_update": "Tuesday, August 10, 2021"
+  },
+  {
     "name": "Magic",
     "website": "https://magic.link/",
     "colors": {
@@ -318,10 +327,10 @@
     "colors": {
       "logo_colors": ["#000000"],
       "primary": ["#000000", "#0568fd", "#f9fafc", "#ffffff"],
-      "secondary_rose": ["#fdf7f8", "#fae6e9", "#ea9292", "#ac5863"],
-      "secondary_yellow": ["#fff8f2", "#ffe8d3", "#ffad62"],
+      "secondary_forrest": ["#f7f5fb", "#e6dff3", "#8f61c9", "#3d2f5d"],
       "secondary_lavender": ["#f1f8f7", "#cfe7e5", "#2d9097", "#34585a"],
-      "secondary_forrest": ["#f7f5fb", "#e6dff3", "#8f61c9", "#3d2f5d"]
+      "secondary_rose": ["#fdf7f8", "#fae6e9", "#ea9292", "#ac5863"],
+      "secondary_yellow": ["#fff8f2", "#ffe8d3", "#ffad62"]
     },
     "source": [
       "https://www.notion.so/Press-Kit-421d405e76154662a547ce9ef2a3f018"
