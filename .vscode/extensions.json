@@ -3,6 +3,7 @@
     "kamikillerto.vscode-colorize",
     "richie5um2.vscode-sort-json",
     "fvclaus.sort-json-array",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "nhoizey.gremlins"
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "ps": {
+    "full_name": "Partido Socialista",
+    "cne_page": "https://www.cne.pt/partido/partido-socialista"
+  },
+  "psd": {
+    "full_name": "Partido Social Democrata",
+    "cne_page": "https://www.cne.pt/partido/partido-social-democrata"
+  },
+  "be": {
+    "full_name": "Bloco de Esquerda",
+    "cne_page": "https://www.cne.pt/partido/bloco-de-esquerda"
+  },
+  "pcp": {
+    "full_name": "Partido Comunista Português",
+    "cne_page": "https://www.cne.pt/partido/partido-comunista-portugues"
+  },
+  "cds": {
+    "full_name": "CDS - Partido Popular",
+    "cne_page": "https://www.cne.pt/partido/cds-partido-popular"
+  },
+  "pan": {
+    "full_name": "PESSOAS — ANIMAIS — NATUREZA",
+    "cne_page": "https://www.cne.pt/partido/pessoas-animais-natureza"
+  },
+  "chega": {
+    "full_name": "CHEGA",
+    "cne_page": "https://www.cne.pt/partido/chega"
+  },
+  "il": {
+    "full_name": "Iniciativa Liberal",
+    "cne_page": "https://www.cne.pt/partido/iniciativa-liberal"
+  },
+  "livre": {
+    "full_name": "LIVRE",
+    "cne_page": "https://www.cne.pt/partido/livre"
+  }
+}

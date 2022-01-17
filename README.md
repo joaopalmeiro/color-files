@@ -5,6 +5,7 @@ Set of files with the colors relevant to a given topic.
 ## References
 
 - [webcolors](https://github.com/ubernostrum/webcolors) package.
+- [Partidos Políticos (CNE)](https://www.cne.pt/content/partidos-politicos-1).
 
 ## Colors
 
@@ -55,3 +56,4 @@ Set of files with the colors relevant to a given topic.
 - [mousetrap](https://www.npmjs.com/package/mousetrap) package (to handle keyboard shortcuts).
 - [number-abbreviate](https://www.npmjs.com/package/number-abbreviate) package.
 - [TinyColor](https://www.npmjs.com/package/tinycolor2) package (`npm i tinycolor2`).
+- CNE: Comissão Nacional de Eleições.

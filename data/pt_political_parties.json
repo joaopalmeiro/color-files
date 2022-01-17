@@ -1,0 +1,21 @@
+{
+  "name": "Colors used by Público",
+  "website": "https://www.publico.pt/",
+  "colors": {
+    "label_colors": {
+      "ps": "#ff84b7",
+      "psd": "",
+      "be": "",
+      "pcp": "",
+      "cds": "",
+      "pan": "",
+      "chega": "",
+      "il": "",
+      "livre": ""
+    }
+  },
+  "source": [
+    "https://www.publico.pt/eleicoes-legislativas-2022/oito-temas-nove-lideres"
+  ],
+  "last_update": "Monday, January 17, 2022"
+}
