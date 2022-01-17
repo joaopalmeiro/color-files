@@ -1,11 +1,12 @@
 [
   {
-    "name": "Colors used by Público (Legislativas 2022)",
+    "name": "Colors used by Público",
     "website": "https://www.publico.pt/",
     "colors": {
       "label_colors": {
         "be": "#58595b",
         "cds": "#0076b5",
+        "cdu": "#ed1c24",
         "chega": "#002e5e",
         "il": "#6bcde8",
         "livre": "#5c711b",
@@ -16,12 +17,13 @@
       }
     },
     "source": [
-      "https://www.publico.pt/eleicoes-legislativas-2022/oito-temas-nove-lideres"
+      "https://www.publico.pt/eleicoes-legislativas-2022/oito-temas-nove-lideres",
+      "https://www.publico.pt/legislativas-2019"
     ],
     "last_update": "Monday, January 17, 2022"
   },
   {
-    "name": "Colors used by Observador (Legislativas 2022)",
+    "name": "Colors used by Observador",
     "website": "https://observador.pt/",
     "colors": {
       "label_colors": {
