@@ -1,21 +1,42 @@
-{
-  "name": "Colors used by Público",
-  "website": "https://www.publico.pt/",
-  "colors": {
-    "label_colors": {
-      "be": "#58595b",
-      "cds": "#0076b5",
-      "chega": "#002e5e",
-      "il": "#6bcde8",
-      "livre": "#5c711b",
-      "pan": "#d1e47c",
-      "pcp": "#ed1c24",
-      "ps": "#ff84b7",
-      "psd": "#ffab49"
-    }
+[
+  {
+    "name": "Colors used by Público (Legislativas 2022)",
+    "website": "https://www.publico.pt/",
+    "colors": {
+      "label_colors": {
+        "be": "#58595b",
+        "cds": "#0076b5",
+        "chega": "#002e5e",
+        "il": "#6bcde8",
+        "livre": "#5c711b",
+        "pan": "#d1e47c",
+        "pcp": "#ed1c24",
+        "ps": "#ff84b7",
+        "psd": "#ffab49"
+      }
+    },
+    "source": [
+      "https://www.publico.pt/eleicoes-legislativas-2022/oito-temas-nove-lideres"
+    ],
+    "last_update": "Monday, January 17, 2022"
   },
-  "source": [
-    "https://www.publico.pt/eleicoes-legislativas-2022/oito-temas-nove-lideres"
-  ],
-  "last_update": "Monday, January 17, 2022"
-}
+  {
+    "name": "Colors used by Observador (Legislativas 2022)",
+    "website": "https://observador.pt/",
+    "colors": {
+      "label_colors": {
+        "be": "rgb(223, 32, 22)",
+        "cds": "rgb(0, 147, 221)",
+        "cdu": "rgb(0, 92, 161)",
+        "chega": "rgb(31, 33, 83)",
+        "il": "rgb(0, 173, 239)",
+        "livre": "rgb(163, 199, 96)",
+        "pan": "rgb(42, 119, 145)",
+        "ps": "rgb(238, 119, 119)",
+        "psd": "rgb(240, 138, 0)"
+      }
+    },
+    "source": ["https://observador.pt/interativo/votometro-legislativas-2022/"],
+    "last_update": "Monday, January 17, 2022"
+  }
+]

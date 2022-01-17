@@ -1,11 +1,16 @@
 {
   "be": {
     "cne_page": "https://www.cne.pt/partido/bloco-de-esquerda",
-    "full_name": "Bloco de Esquerda"
+    "full_name": "Bloco de Esquerda",
+    "abbreviation": "B.E."
   },
   "cds": {
     "cne_page": "https://www.cne.pt/partido/cds-partido-popular",
     "full_name": "CDS - Partido Popular"
+  },
+  "cdu": {
+    "website": "https://www.cdu.pt/",
+    "full_name": "Coligação Democrática Unitária"
   },
   "chega": {
     "cne_page": "https://www.cne.pt/partido/chega",

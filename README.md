@@ -6,6 +6,8 @@ Set of files with the colors relevant to a given topic.
 
 - [webcolors](https://github.com/ubernostrum/webcolors) package.
 - [Partidos Políticos (CNE)](https://www.cne.pt/content/partidos-politicos-1).
+- [Eleições para a Assembleia da República 2022 (CNE)](https://www.cne.pt/content/eleicoes-para-assembleia-da-republica-2022).
+- [List of political parties in Portugal](https://en.wikipedia.org/wiki/List_of_political_parties_in_Portugal) Wikipedia page.
 
 ## Colors
 
