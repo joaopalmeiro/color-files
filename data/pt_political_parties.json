@@ -3,15 +3,15 @@
   "website": "https://www.publico.pt/",
   "colors": {
     "label_colors": {
+      "be": "#58595b",
+      "cds": "#0076b5",
+      "chega": "#002e5e",
+      "il": "#6bcde8",
+      "livre": "#5c711b",
+      "pan": "#d1e47c",
+      "pcp": "#ed1c24",
       "ps": "#ff84b7",
-      "psd": "",
-      "be": "",
-      "pcp": "",
-      "cds": "",
-      "pan": "",
-      "chega": "",
-      "il": "",
-      "livre": ""
+      "psd": "#ffab49"
     }
   },
   "source": [
