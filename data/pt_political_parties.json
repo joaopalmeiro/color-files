@@ -40,5 +40,24 @@
     },
     "source": ["https://observador.pt/interativo/votometro-legislativas-2022/"],
     "last_update": "Monday, January 17, 2022"
+  },
+  {
+    "name": "Colors used by RTP",
+    "website": "https://www.rtp.pt/noticias/",
+    "colors": {
+      "label_colors": {
+        "be": "#a41d21",
+        "cds": "#00bdff",
+        "cdu": "#d21f26",
+        "chega": "#202056",
+        "il": "#00adee",
+        "livre": "#a3c760",
+        "pan": "#1b647c",
+        "ps": "#eb81b4",
+        "psd": "#f19b20"
+      }
+    },
+    "source": ["https://www.rtp.pt/eleicoes/legislativas-resultados/2019/"],
+    "last_update": "Tuesday, January 18, 2022"
   }
 ]
