@@ -80,5 +80,24 @@
       "https://expresso.pt/eleicoes-legislativas-2022/as-criticas-cruzadas-do-debate-a-9-rio-so-apontou-a-costa-catarina-fez-alvo-ao-bloco-central-e-o-socialista-so-poupou-pan-e-livre/"
     ],
     "last_update": "Tuesday, January 18, 2022"
+  },
+  {
+    "name": "Colors used by Jornal de Negócios",
+    "website": "https://www.jornaldenegocios.pt/",
+    "colors": {
+      "label_colors": {
+        "be": "#000",
+        "cds": "#0071bc",
+        "cdu": "#c4151c",
+        "chega": "#2f4e87",
+        "il": "#71c7dd",
+        "livre": "#68dd51",
+        "pan": "#00798f",
+        "ps": "#f89fe2",
+        "psd": "#f16423"
+      }
+    },
+    "source": ["https://www.jornaldenegocios.pt/interativas/legislativas-2019"],
+    "last_update": "Tuesday, January 18, 2022"
   }
 ]
