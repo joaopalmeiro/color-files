@@ -3,7 +3,7 @@
     "name": "Colors used by Público",
     "website": "https://www.publico.pt/",
     "colors": {
-      "label_colors": {
+      "label_colors_1": {
         "be": "#58595b",
         "cds": "#0076b5",
         "cdu": "#ed1c24",
@@ -14,13 +14,29 @@
         "pcp": "#ed1c24",
         "ps": "#ff84b7",
         "psd": "#ffab49"
+      },
+      "label_colors_2": {
+        "be": "#636466",
+        "cds": "#1683c6",
+        "cdu": "#ed1c24",
+        "chega": "#184673",
+        "il": "#6bcde8",
+        "livre": "#5d721b",
+        "pan": "#a7be41",
+        "ps": "#e768a7",
+        "psd": "#ef932b"
       }
     },
-    "source": [
-      "https://www.publico.pt/eleicoes-legislativas-2022/oito-temas-nove-lideres",
-      "https://www.publico.pt/legislativas-2019"
-    ],
-    "last_update": "Monday, January 17, 2022"
+    "source": {
+      "label_colors_1": [
+        "https://www.publico.pt/eleicoes-legislativas-2022/oito-temas-nove-lideres",
+        "https://www.publico.pt/legislativas-2019"
+      ],
+      "label_colors_2": [
+        "https://www.publico.pt/eleicoes-legislativas-2022/propostas-partidos"
+      ]
+    },
+    "last_update": "Monday, January 24, 2022"
   },
   {
     "name": "Colors used by Observador",
@@ -38,7 +54,11 @@
         "psd": "rgb(240, 138, 0)"
       }
     },
-    "source": ["https://observador.pt/interativo/votometro-legislativas-2022/"],
+    "source": {
+      "label_colors": [
+        "https://observador.pt/interativo/votometro-legislativas-2022/"
+      ]
+    },
     "last_update": "Monday, January 17, 2022"
   },
   {
@@ -57,7 +77,11 @@
         "psd": "#f19b20"
       }
     },
-    "source": ["https://www.rtp.pt/eleicoes/legislativas-resultados/2019/"],
+    "source": {
+      "label_colors": [
+        "https://www.rtp.pt/eleicoes/legislativas-resultados/2019/"
+      ]
+    },
     "last_update": "Tuesday, January 18, 2022"
   },
   {
@@ -76,9 +100,11 @@
         "psd": "rgb(243, 112, 33)"
       }
     },
-    "source": [
-      "https://expresso.pt/eleicoes-legislativas-2022/as-criticas-cruzadas-do-debate-a-9-rio-so-apontou-a-costa-catarina-fez-alvo-ao-bloco-central-e-o-socialista-so-poupou-pan-e-livre/"
-    ],
+    "source": {
+      "label_colors": [
+        "https://expresso.pt/eleicoes-legislativas-2022/as-criticas-cruzadas-do-debate-a-9-rio-so-apontou-a-costa-catarina-fez-alvo-ao-bloco-central-e-o-socialista-so-poupou-pan-e-livre/"
+      ]
+    },
     "last_update": "Tuesday, January 18, 2022"
   },
   {
@@ -97,7 +123,11 @@
         "psd": "#f16423"
       }
     },
-    "source": ["https://www.jornaldenegocios.pt/interativas/legislativas-2019"],
+    "source": {
+      "label_colors": [
+        "https://www.jornaldenegocios.pt/interativas/legislativas-2019"
+      ]
+    },
     "last_update": "Tuesday, January 18, 2022"
   },
   {
@@ -116,7 +146,9 @@
         "psd": "rgb(235, 148, 74)"
       }
     },
-    "source": ["https://sondagens.rr.sapo.pt/"],
+    "source": {
+      "label_colors": ["https://sondagens.rr.sapo.pt/"]
+    },
     "last_update": "Monday, January 24, 2022"
   }
 ]
