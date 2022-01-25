@@ -25,6 +25,17 @@
         "pan": "#a7be41",
         "ps": "#e768a7",
         "psd": "#ef932b"
+      },
+      "label_colors_3": {
+        "be": "#4d4d4d",
+        "cds": "#0072bc",
+        "cdu": "#ed1c24",
+        "chega": "#933483",
+        "il": "#00b8de",
+        "livre": "#000000",
+        "pan": "#a7be41",
+        "ps": "#ec008c",
+        "psd": "#f58220"
       }
     },
     "source": {
@@ -34,9 +45,12 @@
       ],
       "label_colors_2": [
         "https://www.publico.pt/eleicoes-legislativas-2022/propostas-partidos"
+      ],
+      "label_colors_3": [
+        "https://www.publico.pt/2022/01/25/politica/noticia/22-circulos-eleitorais-198-cabecas-lista-veja-aqui-vota-eleicoes-1993037"
       ]
     },
-    "last_update": "Monday, January 24, 2022"
+    "last_update": "Tuesday, January 25, 2022"
   },
   {
     "name": "Colors used by Observador",
