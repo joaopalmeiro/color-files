@@ -1,7 +1,5 @@
 [
   {
-    "name": "Colors used by Público",
-    "website": "https://www.publico.pt/",
     "colors": {
       "label_colors_1": {
         "be": "#58595b",
@@ -38,6 +36,8 @@
         "psd": "#f58220"
       }
     },
+    "last_update": "Tuesday, January 25, 2022",
+    "name": "Colors used by Público",
     "source": {
       "label_colors_1": [
         "https://www.publico.pt/eleicoes-legislativas-2022/oito-temas-nove-lideres",
@@ -50,11 +50,9 @@
         "https://www.publico.pt/2022/01/25/politica/noticia/22-circulos-eleitorais-198-cabecas-lista-veja-aqui-vota-eleicoes-1993037"
       ]
     },
-    "last_update": "Tuesday, January 25, 2022"
+    "website": "https://www.publico.pt/"
   },
   {
-    "name": "Colors used by Observador",
-    "website": "https://observador.pt/",
     "colors": {
       "label_colors": {
         "be": "rgb(223, 32, 22)",
@@ -68,16 +66,16 @@
         "psd": "rgb(240, 138, 0)"
       }
     },
+    "last_update": "Monday, January 17, 2022",
+    "name": "Colors used by Observador",
     "source": {
       "label_colors": [
         "https://observador.pt/interativo/votometro-legislativas-2022/"
       ]
     },
-    "last_update": "Monday, January 17, 2022"
+    "website": "https://observador.pt/"
   },
   {
-    "name": "Colors used by RTP",
-    "website": "https://www.rtp.pt/noticias/",
     "colors": {
       "label_colors": {
         "be": "#a41d21",
@@ -91,16 +89,16 @@
         "psd": "#f19b20"
       }
     },
+    "last_update": "Tuesday, January 18, 2022",
+    "name": "Colors used by RTP",
     "source": {
       "label_colors": [
         "https://www.rtp.pt/eleicoes/legislativas-resultados/2019/"
       ]
     },
-    "last_update": "Tuesday, January 18, 2022"
+    "website": "https://www.rtp.pt/noticias/"
   },
   {
-    "name": "Colors used by Expresso",
-    "website": "https://expresso.pt/",
     "colors": {
       "label_colors": {
         "be": "rgb(101, 45, 144)",
@@ -114,16 +112,16 @@
         "psd": "rgb(243, 112, 33)"
       }
     },
+    "last_update": "Tuesday, January 18, 2022",
+    "name": "Colors used by Expresso",
     "source": {
       "label_colors": [
         "https://expresso.pt/eleicoes-legislativas-2022/as-criticas-cruzadas-do-debate-a-9-rio-so-apontou-a-costa-catarina-fez-alvo-ao-bloco-central-e-o-socialista-so-poupou-pan-e-livre/"
       ]
     },
-    "last_update": "Tuesday, January 18, 2022"
+    "website": "https://expresso.pt/"
   },
   {
-    "name": "Colors used by Jornal de Negócios",
-    "website": "https://www.jornaldenegocios.pt/",
     "colors": {
       "label_colors": {
         "be": "#000",
@@ -137,16 +135,16 @@
         "psd": "#f16423"
       }
     },
+    "last_update": "Tuesday, January 18, 2022",
+    "name": "Colors used by Jornal de Negócios",
     "source": {
       "label_colors": [
         "https://www.jornaldenegocios.pt/interativas/legislativas-2019"
       ]
     },
-    "last_update": "Tuesday, January 18, 2022"
+    "website": "https://www.jornaldenegocios.pt/"
   },
   {
-    "name": "Colors used by Rádio Renascença",
-    "website": "https://rr.sapo.pt/",
     "colors": {
       "label_colors": {
         "be": "rgb(8, 8, 8)",
@@ -160,9 +158,11 @@
         "psd": "rgb(235, 148, 74)"
       }
     },
+    "last_update": "Monday, January 24, 2022",
+    "name": "Colors used by Rádio Renascença",
     "source": {
       "label_colors": ["https://sondagens.rr.sapo.pt/"]
     },
-    "last_update": "Monday, January 24, 2022"
+    "website": "https://rr.sapo.pt/"
   }
 ]

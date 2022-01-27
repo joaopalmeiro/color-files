@@ -24,13 +24,13 @@
     "sortJSONTypeReverse": false,
     "sortJSONValues": false,
     "sortJSONValuesReverse": false
-  },
-  "sortJSON.orderOverride": [
-    "name",
-    "website",
-    "colors",
-    "logo_colors",
-    "source",
-    "last_update"
-  ]
+  }
+  // "sortJSON.orderOverride": [
+  //   "name",
+  //   "website",
+  //   "colors",
+  //   "logo_colors",
+  //   "source",
+  //   "last_update"
+  // ]
 }

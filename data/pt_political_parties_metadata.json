@@ -12,10 +12,10 @@
     "type": "party"
   },
   "cdu": {
-    "website": "https://www.cdu.pt/",
     "abbreviation": "PCP-PEV",
     "full_name": "CDU - Coligação Democrática Unitária",
-    "type": "coalition"
+    "type": "coalition",
+    "website": "https://www.cdu.pt/"
   },
   "chega": {
     "abbreviation": "CH",
@@ -46,6 +46,13 @@
     "cne_page": "https://www.cne.pt/partido/partido-comunista-portugues",
     "full_name": "Partido Comunista Português",
     "type": "party"
+  },
+  "pev": {
+    "abbreviation": "PEV",
+    "cne_page": "https://www.cne.pt/partido/partido-ecologista-os-verdes",
+    "full_name": "Partido Ecologista \"Os Verdes\"",
+    "type": "party",
+    "website": "https://osverdes.pt/"
   },
   "ps": {
     "abbreviation": "PS",
