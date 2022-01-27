@@ -164,5 +164,29 @@
       "label_colors": ["https://sondagens.rr.sapo.pt/"]
     },
     "website": "https://rr.sapo.pt/"
+  },
+  {
+    "colors": {
+      "label_colors": {
+        "be": "rgb(85, 85, 85)",
+        "cds": "rgb(0, 119, 187)",
+        "chega": "rgb(187, 187, 187)",
+        "il": "rgb(153, 221, 255)",
+        "livre": "rgb(187, 204, 51)",
+        "pan": "rgb(238, 204, 102)",
+        "pcp": "rgb(214, 96, 77)",
+        "pev": "rgb(68, 187, 153)",
+        "ps": "rgb(238, 153, 170)",
+        "psd": "rgb(251, 154, 41)"
+      }
+    },
+    "last_update": "Thursday, January 27, 2022",
+    "name": "Colors used by Interruptor",
+    "source": {
+      "label_colors": [
+        "https://interruptor.pt/artigos/o-que-dizem-os-deputados"
+      ]
+    },
+    "website": "https://interruptor.pt/"
   }
 ]
