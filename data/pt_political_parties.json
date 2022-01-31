@@ -77,7 +77,7 @@
   },
   {
     "colors": {
-      "label_colors": {
+      "label_colors_1": {
         "be": "#a41d21",
         "cds": "#00bdff",
         "cdu": "#d21f26",
@@ -87,13 +87,26 @@
         "pan": "#1b647c",
         "ps": "#eb81b4",
         "psd": "#f19b20"
+      },
+      "label_colors_2": {
+        "be": "#c00436",
+        "cdu": "#01389c",
+        "chega": "#252152",
+        "il": "#009ee2",
+        "livre": "#99bd56",
+        "pan": "#1b647c",
+        "ps": "#e21f26",
+        "psd": "#ff7d0f"
       }
     },
-    "last_update": "Tuesday, January 18, 2022",
+    "last_update": "Monday, January 31, 2022",
     "name": "Colors used by RTP",
     "source": {
-      "label_colors": [
+      "label_colors_1": [
         "https://www.rtp.pt/eleicoes/legislativas-resultados/2019/"
+      ],
+      "label_colors_2": [
+        "https://www.rtp.pt/eleicoes/legislativas-resultados/2022"
       ]
     },
     "website": "https://www.rtp.pt/noticias/"
