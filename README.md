@@ -8,6 +8,8 @@ Set of files with the colors relevant to a given topic.
 - [Partidos Políticos (CNE)](https://www.cne.pt/content/partidos-politicos-1).
 - [Eleições para a Assembleia da República 2022 (CNE)](https://www.cne.pt/content/eleicoes-para-assembleia-da-republica-2022).
 - [List of political parties in Portugal](https://en.wikipedia.org/wiki/List_of_political_parties_in_Portugal) Wikipedia page.
+- [Quadro III - Partidos Inscritos no Tribunal Constitucional e Partidos Extintos](https://www.cne.pt/content/quadro-iii-partidos-inscritos-no-tribunal-constitucional-e-partidos-extintos).
+- [Partidos registados e suas denominações, siglas e símbolos](https://www.tribunalconstitucional.pt/tc/partidos.html).
 
 ## Colors
 

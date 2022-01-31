@@ -1,76 +1,76 @@
 {
   "alianca": {
-    "abbreviation": "A",
+    "abbreviation": ["A"],
     "cne_page": "https://www.cne.pt/partido/alianca",
-    "full_name": "Aliança",
+    "full_name": ["Aliança"],
     "type": "party",
     "website": "https://www.partidoalianca.pt/"
   },
   "be": {
-    "abbreviation": "B.E.",
+    "abbreviation": ["B.E.", "BE"],
     "cne_page": "https://www.cne.pt/partido/bloco-de-esquerda",
-    "full_name": "Bloco de Esquerda",
+    "full_name": ["Bloco de Esquerda"],
     "type": "party"
   },
   "cds": {
-    "abbreviation": "CDS-PP",
+    "abbreviation": ["CDS-PP"],
     "cne_page": "https://www.cne.pt/partido/cds-partido-popular",
-    "full_name": "CDS - Partido Popular",
+    "full_name": ["CDS - Partido Popular", "CDS-Partido Popular"],
     "type": "party"
   },
   "cdu": {
-    "abbreviation": "PCP-PEV",
-    "full_name": "CDU - Coligação Democrática Unitária",
+    "abbreviation": ["PCP-PEV"],
+    "full_name": ["CDU - Coligação Democrática Unitária"],
     "type": "coalition",
     "website": "https://www.cdu.pt/"
   },
   "chega": {
-    "abbreviation": "CH",
+    "abbreviation": ["CH"],
     "cne_page": "https://www.cne.pt/partido/chega",
-    "full_name": "CHEGA",
+    "full_name": ["CHEGA"],
     "type": "party"
   },
   "il": {
-    "abbreviation": "IL",
+    "abbreviation": ["IL"],
     "cne_page": "https://www.cne.pt/partido/iniciativa-liberal",
-    "full_name": "Iniciativa Liberal",
+    "full_name": ["Iniciativa Liberal"],
     "type": "party"
   },
   "livre": {
-    "abbreviation": "L",
+    "abbreviation": ["L"],
     "cne_page": "https://www.cne.pt/partido/livre",
-    "full_name": "LIVRE",
+    "full_name": ["LIVRE"],
     "type": "party"
   },
   "pan": {
-    "abbreviation": "PAN",
+    "abbreviation": ["PAN"],
     "cne_page": "https://www.cne.pt/partido/pessoas-animais-natureza",
-    "full_name": "PESSOAS — ANIMAIS — NATUREZA",
+    "full_name": ["PESSOAS — ANIMAIS — NATUREZA", "PESSOAS-ANIMAIS-NATUREZA"],
     "type": "party"
   },
   "pcp": {
-    "abbreviation": "PCP",
+    "abbreviation": ["PCP"],
     "cne_page": "https://www.cne.pt/partido/partido-comunista-portugues",
-    "full_name": "Partido Comunista Português",
+    "full_name": ["Partido Comunista Português"],
     "type": "party"
   },
   "pev": {
-    "abbreviation": "PEV",
+    "abbreviation": ["PEV"],
     "cne_page": "https://www.cne.pt/partido/partido-ecologista-os-verdes",
-    "full_name": "Partido Ecologista \"Os Verdes\"",
+    "full_name": ["Partido Ecologista \"Os Verdes\""],
     "type": "party",
     "website": "https://osverdes.pt/"
   },
   "ps": {
-    "abbreviation": "PS",
+    "abbreviation": ["PS"],
     "cne_page": "https://www.cne.pt/partido/partido-socialista",
-    "full_name": "Partido Socialista",
+    "full_name": ["Partido Socialista"],
     "type": "party"
   },
   "psd": {
-    "abbreviation": "PPD/PSD",
+    "abbreviation": ["PPD/PSD"],
     "cne_page": "https://www.cne.pt/partido/partido-social-democrata",
-    "full_name": "Partido Social Democrata",
+    "full_name": ["Partido Social Democrata"],
     "type": "party"
   }
 }
