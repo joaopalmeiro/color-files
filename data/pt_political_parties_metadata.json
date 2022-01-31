@@ -1,4 +1,11 @@
 {
+  "alianca": {
+    "abbreviation": "A",
+    "cne_page": "https://www.cne.pt/partido/alianca",
+    "full_name": "Aliança",
+    "type": "party",
+    "website": "https://www.partidoalianca.pt/"
+  },
   "be": {
     "abbreviation": "B.E.",
     "cne_page": "https://www.cne.pt/partido/bloco-de-esquerda",

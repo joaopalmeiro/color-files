@@ -260,5 +260,27 @@
       ]
     },
     "website": "https://sicnoticias.pt/"
+  },
+  {
+    "colors": {
+      "label_colors": {
+        "alianca": "#70ccdd",
+        "be": "#555555",
+        "cds": "#3333ff",
+        "cdu": "#ff0000",
+        "chega": "#d6ac14",
+        "il": "#00adf1",
+        "livre": "#ff9999",
+        "pan": "#71be44",
+        "ps": "#ff33cc",
+        "psd": "#ff9933"
+      }
+    },
+    "last_update": "Monday, January 31, 2022",
+    "name": "Colors used by Grupo Marktest",
+    "source": {
+      "label_colors": ["https://www.marktest.com/wap/a/p/p~202111/id~112.aspx"]
+    },
+    "website": "https://www.marktest.com/wap/"
   }
 ]
