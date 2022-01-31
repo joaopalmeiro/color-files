@@ -202,5 +202,26 @@
       ]
     },
     "website": "https://interruptor.pt/"
+  },
+  {
+    "colors": {
+      "label_colors": {
+        "be": "rgb(216, 57, 50)",
+        "cds": "rgb(0, 145, 220)",
+        "cdu": "rgb(0, 102, 153)",
+        "chega": "rgb(96, 71, 155)",
+        "il": "rgb(0, 175, 233)",
+        "livre": "rgb(181, 210, 110)",
+        "pan": "rgb(136, 198, 196)",
+        "ps": "rgb(243, 125, 176)",
+        "psd": "rgb(226, 120, 50)"
+      }
+    },
+    "last_update": "Monday, January 31, 2022",
+    "name": "Colors used by SAPO",
+    "source": {
+      "label_colors": ["https://www.sapo.pt/eleicoes"]
+    },
+    "website": "https://www.sapo.pt/"
   }
 ]
