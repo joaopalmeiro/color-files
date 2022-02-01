@@ -134,6 +134,17 @@
     "full_name": ["Partido Social Democrata"],
     "type": "party"
   },
+  "psd.cds": {
+    "abbreviation": ["PPD/PSD.CDS-PP"],
+    "full_name": ["MADEIRA PRIMEIRO", "Madeira Primeiro"],
+    "type": "coalition"
+  },
+  "psd.cds.ppm": {
+    "abbreviation": ["PPD/PSD.CDS-PP.PPM", "AD"],
+    "full_name": ["AD/Aliança Democrática", "Aliança Democrática"],
+    "type": "coalition",
+    "wikipedia_page": "https://pt.wikipedia.org/wiki/Alian%C3%A7a_Democr%C3%A1tica_(Portugal)"
+  },
   "rir": {
     "abbreviation": ["R.I.R.", "RIR"],
     "cne_page": "https://www.cne.pt/partido/reagir-incluir-reciclar",
