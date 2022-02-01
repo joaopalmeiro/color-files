@@ -1,4 +1,13 @@
 {
+  "adn": {
+    "abbreviation": ["ADN"],
+    "cne_page": "https://www.cne.pt/partido/alternativa-democratica-nacional",
+    "full_name": [
+      "Alternativa Democrática Nacional",
+      "ALTERNATIVA DEMOCRÁTICA NACIONAL"
+    ],
+    "type": "party"
+  },
   "alianca": {
     "abbreviation": ["A"],
     "cne_page": "https://www.cne.pt/partido/alianca",
@@ -30,10 +39,22 @@
     "full_name": ["CHEGA"],
     "type": "party"
   },
+  "e": {
+    "abbreviation": [""],
+    "cne_page": "",
+    "full_name": [""],
+    "type": "party"
+  },
   "il": {
     "abbreviation": ["IL"],
     "cne_page": "https://www.cne.pt/partido/iniciativa-liberal",
     "full_name": ["Iniciativa Liberal"],
+    "type": "party"
+  },
+  "jpp": {
+    "abbreviation": [""],
+    "cne_page": "",
+    "full_name": [""],
     "type": "party"
   },
   "livre": {
@@ -42,10 +63,40 @@
     "full_name": ["LIVRE"],
     "type": "party"
   },
+  "mas": {
+    "abbreviation": [""],
+    "cne_page": "",
+    "full_name": [""],
+    "type": "party"
+  },
+  "mpt": {
+    "abbreviation": [""],
+    "cne_page": "",
+    "full_name": [""],
+    "type": "party"
+  },
+  "mrpp": {
+    "abbreviation": [""],
+    "cne_page": "",
+    "full_name": [""],
+    "type": "party"
+  },
+  "nc": {
+    "abbreviation": [""],
+    "cne_page": "",
+    "full_name": [""],
+    "type": "party"
+  },
   "pan": {
     "abbreviation": ["PAN"],
     "cne_page": "https://www.cne.pt/partido/pessoas-animais-natureza",
     "full_name": ["PESSOAS — ANIMAIS — NATUREZA", "PESSOAS-ANIMAIS-NATUREZA"],
+    "type": "party"
+  },
+  "ppm": {
+    "abbreviation": [""],
+    "cne_page": "",
+    "full_name": [""],
     "type": "party"
   },
   "pcp": {
@@ -71,6 +122,18 @@
     "abbreviation": ["PPD/PSD"],
     "cne_page": "https://www.cne.pt/partido/partido-social-democrata",
     "full_name": ["Partido Social Democrata"],
+    "type": "party"
+  },
+  "rir": {
+    "abbreviation": [""],
+    "cne_page": "",
+    "full_name": [""],
+    "type": "party"
+  },
+  "volt": {
+    "abbreviation": [""],
+    "cne_page": "",
+    "full_name": [""],
     "type": "party"
   }
 }
