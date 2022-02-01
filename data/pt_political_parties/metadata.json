@@ -103,12 +103,6 @@
     "type": "party",
     "website": "https://www.pan.com.pt/"
   },
-  "ppm": {
-    "abbreviation": ["PPM"],
-    "cne_page": "https://www.cne.pt/partido/partido-popular-monarquico",
-    "full_name": ["Partido Popular Monárquico"],
-    "type": "party"
-  },
   "pcp": {
     "abbreviation": ["PCP"],
     "cne_page": "https://www.cne.pt/partido/partido-comunista-portugues",
@@ -121,6 +115,12 @@
     "full_name": ["Partido Ecologista \"Os Verdes\""],
     "type": "party",
     "website": "https://osverdes.pt/"
+  },
+  "ppm": {
+    "abbreviation": ["PPM"],
+    "cne_page": "https://www.cne.pt/partido/partido-popular-monarquico",
+    "full_name": ["Partido Popular Monárquico"],
+    "type": "party"
   },
   "ps": {
     "abbreviation": ["PS"],
