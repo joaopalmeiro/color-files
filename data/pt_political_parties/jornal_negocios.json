@@ -30,6 +30,8 @@
       "ppm": ["#666", "linear-gradient(308deg,#b3b3b3,#8d8d8d)"],
       "ps": ["#f43674", "linear-gradient(308deg,#f43674,#ba0a43)"],
       "psd": ["#f49638", "linear-gradient(308deg,#f49638,#bc630a)"],
+      "psd.cds": ["#f49638", "linear-gradient(308deg,#f49638,#bc630a)"],
+      "psd.cds.ppm": ["#f49638", "linear-gradient(308deg,#f49638,#bc630a)"],
       "ptp": ["#666", "linear-gradient(308deg,#b3b3b3,#8d8d8d)"],
       "rir": ["#666", "linear-gradient(308deg,#b3b3b3,#8d8d8d)"],
       "volt": ["#666", "linear-gradient(308deg,#b3b3b3,#8d8d8d)"]
