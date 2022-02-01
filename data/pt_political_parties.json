@@ -282,5 +282,40 @@
       "label_colors": ["https://www.marktest.com/wap/a/p/p~202111/id~112.aspx"]
     },
     "website": "https://www.marktest.com/wap/"
+  },
+  {
+    "colors": {
+      "label_colors": {
+        "adn": "#f1db51",
+        "alianca": "#086ba2",
+        "be": "#7e1daa",
+        "cds": "#395aa7",
+        "cdu": "#d02020",
+        "chega": "#e7c212",
+        "e": "#204267",
+        "il": "#329dc1",
+        "jpp": "#59c1a6",
+        "livre": "#2d2c31",
+        "mas": "#b7c03f",
+        "mpt": "#4c6337",
+        "mrpp": "#3f42a3",
+        "nc": "#e39324",
+        "pan": "#75a639",
+        "ppm": "#218199",
+        "ps": "#ce19bc",
+        "psd": "#f26932",
+        "ptp": "#fd4d3e",
+        "rir": "#307972",
+        "volt": "#44016b"
+      }
+    },
+    "last_update": "Tuesday, February 1, 2022",
+    "name": "Colors used by CNN Portugal",
+    "source": {
+      "label_colors": [
+        "https://cnnportugal.iol.pt/eleicoes/legislativas2022/resultados"
+      ]
+    },
+    "website": "https://cnnportugal.iol.pt/"
   }
 ]
