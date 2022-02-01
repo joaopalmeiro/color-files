@@ -1,0 +1,24 @@
+{
+  "colors": {
+    "label_colors": {
+      "be": "rgb(101, 45, 144)",
+      "cds": "rgb(20, 113, 184)",
+      "cdu": "rgb(218, 32, 44)",
+      "chega": "rgb(0, 31, 133)",
+      "il": "rgb(82, 197, 215)",
+      "livre": "rgb(176, 191, 0)",
+      "pan": "rgb(0, 121, 144)",
+      "ps": "rgb(226, 22, 101)",
+      "psd": "rgb(243, 112, 33)"
+    }
+  },
+  "last_update": "Saturday, January 29, 2022",
+  "name": "Colors used by Expresso",
+  "source": {
+    "label_colors": [
+      "https://expresso.pt/eleicoes-legislativas-2022/as-criticas-cruzadas-do-debate-a-9-rio-so-apontou-a-costa-catarina-fez-alvo-ao-bloco-central-e-o-socialista-so-poupou-pan-e-livre/",
+      "https://expresso.pt/eleicoes-legislativas-2022/guiao-para-a-noite-eleitoral-as-metas-para-distinguir-vencedores-derrotados-e-sobreviventes-em-13-notas-e-graficos/"
+    ]
+  },
+  "website": "https://expresso.pt/"
+}

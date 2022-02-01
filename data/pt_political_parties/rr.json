@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "label_colors": {
+      "be": "rgb(8, 8, 8)",
+      "cds": "rgb(10, 132, 232)",
+      "cdu": "rgb(204, 20, 42)",
+      "chega": "rgb(18, 71, 136)",
+      "il": "rgb(62, 175, 235)",
+      "livre": "rgb(137, 165, 74)",
+      "pan": "rgb(81, 192, 174)",
+      "ps": "rgb(232, 76, 116)",
+      "psd": "rgb(235, 148, 74)"
+    }
+  },
+  "last_update": "Monday, January 24, 2022",
+  "name": "Colors used by Rádio Renascença",
+  "source": {
+    "label_colors": ["https://sondagens.rr.sapo.pt/"]
+  },
+  "website": "https://rr.sapo.pt/"
+}

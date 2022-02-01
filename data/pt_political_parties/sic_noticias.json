@@ -1,0 +1,37 @@
+{
+  "colors": {
+    "label_colors_1": {
+      "be": "rgb(235, 14, 19)",
+      "cds": "rgb(75, 55, 253)",
+      "cdu": "rgb(54, 146, 194)",
+      "chega": "rgb(16, 40, 125)",
+      "il": "rgb(36, 208, 227)",
+      "livre": "rgb(95, 183, 229)",
+      "pan": "rgb(111, 161, 134)",
+      "ps": "rgb(242, 78, 94)",
+      "psd": "rgb(247, 116, 40)"
+    },
+    "label_colors_2": {
+      "be": "rgb(101, 45, 144)",
+      "cds": "rgb(20, 113, 184)",
+      "cdu": "rgb(167, 14, 19)",
+      "chega": "rgb(0, 31, 133)",
+      "il": "rgb(82, 197, 215)",
+      "livre": "rgb(238, 60, 48)",
+      "pan": "rgb(0, 121, 144)",
+      "ps": "rgb(226, 22, 101)",
+      "psd": "rgb(243, 112, 33)"
+    }
+  },
+  "last_update": "Monday, January 31, 2022",
+  "name": "Colors used by SIC Notícias",
+  "source": {
+    "label_colors_1": [
+      "https://sicnoticias.pt/eleicoes-legislativas/o-novo-parlamento-quem-ganha-e-quem-perde-assentos/"
+    ],
+    "label_colors_2": [
+      "https://sicnoticias.pt/eleicoes-legislativas/resultados"
+    ]
+  },
+  "website": "https://sicnoticias.pt/"
+}

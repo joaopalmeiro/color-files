@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "label_colors": {
+      "be": "rgb(223, 32, 22)",
+      "cds": "rgb(0, 147, 221)",
+      "cdu": "rgb(0, 92, 161)",
+      "chega": "rgb(31, 33, 83)",
+      "il": "rgb(0, 173, 239)",
+      "livre": "rgb(163, 199, 96)",
+      "pan": "rgb(42, 119, 145)",
+      "ps": "rgb(238, 119, 119)",
+      "psd": "rgb(240, 138, 0)"
+    }
+  },
+  "last_update": "Monday, January 17, 2022",
+  "name": "Colors used by Observador",
+  "source": {
+    "label_colors": [
+      "https://observador.pt/interativo/votometro-legislativas-2022/"
+    ]
+  },
+  "website": "https://observador.pt/"
+}

@@ -1,0 +1,63 @@
+{
+  "colors": {
+    "label_colors_1": {
+      "alianca": "#3fc3d8",
+      "be": "#58595b",
+      "cds": "#0076b5",
+      "cdu": "#ed1c24",
+      "chega": "#002e5e",
+      "il": "#6bcde8",
+      "jpp": "#cacaca",
+      "livre": "#5c711b",
+      "mas": "#cacaca",
+      "mpt": "#488a92",
+      "mrpp": "#cacaca",
+      "nc": "#cacaca",
+      "pan": "#d1e47c",
+      "pcp": "#ed1c24",
+      "ppm": "#cacaca",
+      "ps": "#ff84b7",
+      "psd": ["#ffab49", "#fdba58"],
+      "ptp": "#cacaca",
+      "rir": "#cacaca"
+    },
+    "label_colors_2": {
+      "be": "#636466",
+      "cds": "#1683c6",
+      "cdu": "#ed1c24",
+      "chega": "#184673",
+      "il": "#6bcde8",
+      "livre": "#5d721b",
+      "pan": "#a7be41",
+      "ps": "#e768a7",
+      "psd": "#ef932b"
+    },
+    "label_colors_3": {
+      "be": "#4d4d4d",
+      "cds": "#0072bc",
+      "cdu": "#ed1c24",
+      "chega": "#933483",
+      "il": "#00b8de",
+      "livre": "#000000",
+      "pan": "#a7be41",
+      "ps": "#ec008c",
+      "psd": "#f58220"
+    }
+  },
+  "last_update": "Tuesday, February 1, 2022",
+  "name": "Colors used by Público",
+  "source": {
+    "label_colors_1": [
+      "https://www.publico.pt/eleicoes-legislativas-2022/oito-temas-nove-lideres",
+      "https://www.publico.pt/legislativas-2019",
+      "https://www.publico.pt/legislativas-2022/resultados/"
+    ],
+    "label_colors_2": [
+      "https://www.publico.pt/eleicoes-legislativas-2022/propostas-partidos"
+    ],
+    "label_colors_3": [
+      "https://www.publico.pt/2022/01/25/politica/noticia/22-circulos-eleitorais-198-cabecas-lista-veja-aqui-vota-eleicoes-1993037"
+    ]
+  },
+  "website": "https://www.publico.pt/"
+}
