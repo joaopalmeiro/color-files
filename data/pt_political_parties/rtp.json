@@ -19,7 +19,9 @@
       "livre": "#99bd56",
       "pan": "#1b647c",
       "ps": "#e21f26",
-      "psd": "#ff7d0f"
+      "psd": "#ff7d0f",
+      "psd.cds": "#ff7d0f",
+      "psd.cds.ppm": "#ff7d0f"
     }
   },
   "last_update": "Monday, January 31, 2022",
