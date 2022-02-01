@@ -18,6 +18,8 @@
       "ppm": "#cacaca",
       "ps": "#ff84b7",
       "psd": ["#ffab49", "#fdba58"],
+      "psd.cds": ["#cacaca", "#ffab49"],
+      "psd.cds.ppm": ["#cacaca", "#fdba58"],
       "ptp": "#cacaca",
       "rir": "#cacaca"
     },
