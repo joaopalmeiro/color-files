@@ -17,6 +17,8 @@
       "ppm": "rgb(1, 74, 148)",
       "ps": "rgb(243, 125, 176)",
       "psd": "rgb(226, 120, 50)",
+      "psd.cds": "#cfd6d0",
+      "psd.cds.ppm": "#cfd6d0",
       "ptp": "rgb(202, 1, 20)",
       "rir": "#aaa"
     }
