@@ -77,16 +77,20 @@
     "type": "party"
   },
   "mrpp": {
-    "abbreviation": [""],
-    "cne_page": "",
-    "full_name": [""],
-    "type": "party"
+    "abbreviation": ["PCTP/MRPP"],
+    "cne_page": "Partido Comunista dos Trabalhadores Portugueses",
+    "full_name": [
+      "https://www.cne.pt/partido/partido-comunista-dos-trabalhadores-portugueses"
+    ],
+    "type": "party",
+    "website": "https://www.lutapopularonline.org/"
   },
   "nc": {
-    "abbreviation": [""],
-    "cne_page": "",
-    "full_name": [""],
-    "type": "party"
+    "abbreviation": ["NC"],
+    "cne_page": "https://www.cne.pt/partido/nos-cidadaos",
+    "full_name": ["Nós, Cidadãos!"],
+    "type": "party",
+    "website": "https://noscidadaos.pt/"
   },
   "pan": {
     "abbreviation": ["PAN"],
@@ -100,9 +104,9 @@
     "website": "https://www.pan.com.pt/"
   },
   "ppm": {
-    "abbreviation": [""],
-    "cne_page": "",
-    "full_name": [""],
+    "abbreviation": ["PPM"],
+    "cne_page": "https://www.cne.pt/partido/partido-popular-monarquico",
+    "full_name": ["Partido Popular Monárquico"],
     "type": "party"
   },
   "pcp": {
@@ -131,15 +135,17 @@
     "type": "party"
   },
   "rir": {
-    "abbreviation": [""],
-    "cne_page": "",
-    "full_name": [""],
-    "type": "party"
+    "abbreviation": ["R.I.R.", "RIR"],
+    "cne_page": "https://www.cne.pt/partido/reagir-incluir-reciclar",
+    "full_name": ["Reagir Incluir Reciclar"],
+    "type": "party",
+    "website": "https://partido-rir.pt/"
   },
   "volt": {
-    "abbreviation": [""],
-    "cne_page": "",
-    "full_name": [""],
-    "type": "party"
+    "abbreviation": ["VP"],
+    "cne_page": "https://www.cne.pt/partido/volt-portugal",
+    "full_name": ["Volt Portugal", "Volt"],
+    "type": "party",
+    "website": "https://www.voltportugal.org/"
   }
 }
