@@ -40,9 +40,9 @@
     "type": "party"
   },
   "e": {
-    "abbreviation": [""],
-    "cne_page": "",
-    "full_name": [""],
+    "abbreviation": ["E"],
+    "cne_page": "https://www.cne.pt/partido/ergue-te",
+    "full_name": ["Ergue-te"],
     "type": "party"
   },
   "il": {
@@ -52,9 +52,9 @@
     "type": "party"
   },
   "jpp": {
-    "abbreviation": [""],
-    "cne_page": "",
-    "full_name": [""],
+    "abbreviation": ["JPP"],
+    "cne_page": "https://www.cne.pt/partido/juntos-pelo-povo",
+    "full_name": ["Juntos pelo Povo"],
     "type": "party"
   },
   "livre": {
@@ -64,15 +64,16 @@
     "type": "party"
   },
   "mas": {
-    "abbreviation": [""],
-    "cne_page": "",
-    "full_name": [""],
-    "type": "party"
+    "abbreviation": ["MAS"],
+    "cne_page": "https://www.cne.pt/partido/movimento-alternativa-socialista",
+    "full_name": ["Movimento Alternativa Socialista"],
+    "type": "party",
+    "website": "http://mas.org.pt/"
   },
   "mpt": {
-    "abbreviation": [""],
-    "cne_page": "",
-    "full_name": [""],
+    "abbreviation": ["MPT"],
+    "cne_page": "https://www.cne.pt/partido/partido-da-terra",
+    "full_name": ["Partido da Terra"],
     "type": "party"
   },
   "mrpp": {
@@ -90,8 +91,13 @@
   "pan": {
     "abbreviation": ["PAN"],
     "cne_page": "https://www.cne.pt/partido/pessoas-animais-natureza",
-    "full_name": ["PESSOAS — ANIMAIS — NATUREZA", "PESSOAS-ANIMAIS-NATUREZA"],
-    "type": "party"
+    "full_name": [
+      "PESSOAS — ANIMAIS — NATUREZA",
+      "PESSOAS-ANIMAIS-NATUREZA",
+      "Pessoas-Animais-Natureza"
+    ],
+    "type": "party",
+    "website": "https://www.pan.com.pt/"
   },
   "ppm": {
     "abbreviation": [""],
